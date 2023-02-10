@@ -27,3 +27,5 @@ and open Tensorboard with the following command
 tensorboard --logdir=.
 ```
 ![alt text](https://github.com/naruep/StrawberryDetection/blob/main/images/002.JPG?raw=true)
+### Dataset
+This is the dataset of the [Strawberry Digital Images (StrawDI)](https://strawdi.github.io/), which contains 8000 images of strawberries, taken from 20 plantations, within an approximate area of 150 hectares, in the province of Huelva, Spain.

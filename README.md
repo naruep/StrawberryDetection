@@ -12,3 +12,4 @@ Activate your virtual environment
 Install dependencies and add virtual environment to the Python Kernel
 ### Step 5.
 Collect images using the Notebook 1. Image Collection.ipynb (https://github.com/naruep/StrawberryDetection/blob/main/ImageLabelling.ipynb) - ensure you change the kernel to the virtual environment as shown below
+![alt text](https://github.com/naruep/StrawberryDetection/blob/main/images/007.JPG?raw=true)

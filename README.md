@@ -23,4 +23,7 @@ You can optionally evaluate your model inside of Tensorboard. Once the model has
 cd Tensorlfow/workspace/models/my_ssd_mobnet/eval
 ```
 and open Tensorboard with the following command
+```ruby
 tensorboard --logdir=.
+```
+![alt text](https://github.com/naruep/StrawberryDetection/blob/main/images/002.JPG?raw=true)

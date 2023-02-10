@@ -1,0 +1,8 @@
+mkdir [directory]
+cd [directory]
+python -m venv [virtualname]
+.\[directory]\Scripts\activate.bat
+python -m pip install --upgrade pip
+pip install ipykernel
+python -m ipykernel install --user --name=[virtualname] 
+jupyter notebook

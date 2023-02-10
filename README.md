@@ -14,4 +14,4 @@ Install dependencies and add virtual environment to the Python Kernel
 Collect images using the Notebook 1. [Image Collection.ipynb](https://github.com/naruep/StrawberryDetection/blob/main/ImageLabelling.ipynb) - ensure you change the kernel to the virtual environment as shown below
 ![alt text](https://github.com/naruep/StrawberryDetection/blob/main/images/007.JPG?raw=true)
 ### Step 6.
-Training process by opening 2. Training and Detection.ipynb (https://github.com/naruep/StrawberryDetection/blob/main/StrawberryDetectionVersion1.0.1.ipynb), this notebook will walk you through installing Tensorflow Object Detection, making detections, saving and exporting your model.
+Training process by opening 2. [Training and Detection.ipynb](https://github.com/naruep/StrawberryDetection/blob/main/StrawberryDetectionVersion1.0.1.ipynb), this notebook will walk you through installing Tensorflow Object Detection, making detections, saving and exporting your model.

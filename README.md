@@ -3,7 +3,7 @@ This set of Notebooks provides a complete set of code to be able to train and le
 ![alt text](https://github.com/naruep/StrawberryDetection/blob/main/images/001.JPG?raw=true)
 ## Steps
 ### Step 1. 
-Clone this repository: StrawberryDetection (https://github.com/naruep/StrawberryDetection.git)
+Clone this repository: StrawberryDetection(https://github.com/naruep/StrawberryDetection.git)
 ### Step 2.
 Create a new virtual environment
 ### Step 3.
